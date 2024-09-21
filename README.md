@@ -138,10 +138,3 @@ To run the test suite, use:
 ```bash
 python manage.py test
 ```
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-This `README.md` file provides a good overview of the project, explains how to install and set it up, lists the available API endpoints, and includes other relevant information.
