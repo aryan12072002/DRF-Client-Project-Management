@@ -1,0 +1,6 @@
+Django==4.0.6
+djangorestframework==3.14.0
+mysqlclient==2.1.1  # Use this for MySQL support
+psycopg2==2.9.6  # Use this if you're using PostgreSQL
+django-cors-headers==3.13.0
+gunicorn==20.1.0  # If deploying with Gunicorn
